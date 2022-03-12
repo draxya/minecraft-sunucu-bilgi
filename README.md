@@ -1,4 +1,4 @@
-### minecraft-sunucu-bilgi
+### 🟣 Minecraft Sunucu Bilgi
 İstediğiniz sunucunun anlık oyuncu sayısı gibi bilgilerine ulaşabileceğiniz bir komut.
 #
 ![status](https://github.com/draxya/minecraft-sunucu-bilgi/blob/main/views/status.png)
